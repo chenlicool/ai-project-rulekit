@@ -9,6 +9,7 @@
 
 ## 包含内容
 - 规则总纲与分域法典（前端/后端/测试/文档）
+- AI 灵魂定义规则（SOUL）
 - 统一文档模板（ARCHITECTURE / API / CHANGELOG / MEMORY / README / STACK）
 - 0 → 1 初始化与任务完成后的同步工作流
 - 中英文版本模板：`template/`（中文）与 `template-en/`（英文）

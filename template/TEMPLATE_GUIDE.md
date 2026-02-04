@@ -6,6 +6,7 @@
 ```text
 template/
 ├── AGENTS.md
+├── SOUL.md
 ├── ARCHITECTURE.md
 ├── API.md
 ├── CHANGELOG.md
@@ -33,6 +34,7 @@ template/
 - 所有文档的一级标题为固定结构，禁止删除或重命名。
 - 仅允许在既定标题下追加内容，禁止整段重写。
 - 中文优先；英文可附加，但中文在前。
+- `SOUL.md` 定义 AI 价值观与行为边界，属于强约束文档。
 - `MEMORY.md` 必须按时间倒序维护，最新记录置顶。
 - 无后端项目的 `API.md` 改为“内部协议/组件通信说明”。
 

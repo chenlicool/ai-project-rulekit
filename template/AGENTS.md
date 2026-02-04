@@ -21,6 +21,7 @@
 3. 未更新文档而先改代码视为违规。
 
 ## 4. 规则索引
+- AI 灵魂定义 → `SOUL.md`
 - 前端规则 → `.rules/AGENTS_FRONTEND.md`
 - 后端规则 → `.rules/AGENTS_BACKEND.md`
 - 测试规则 → `.rules/AGENTS_TEST.md`

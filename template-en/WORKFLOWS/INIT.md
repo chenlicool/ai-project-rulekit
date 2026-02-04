@@ -5,6 +5,7 @@ When starting from zero, complete the rule system before writing code.
 ## Phase 0: No stack files yet
 1. Establish the rule system:
    - `AGENTS.md`
+   - `SOUL.md`
    - All rulebooks under `.rules/`
    - `MEMORY.md` / `ARCHITECTURE.md` / `README.md` / `API.md` / `CHANGELOG.md`
 2. Fill `STACK.md` to define the planned stack and deployment.

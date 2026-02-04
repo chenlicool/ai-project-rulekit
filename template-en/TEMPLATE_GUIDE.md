@@ -6,6 +6,7 @@ This template set establishes a shared rule system at project start so AI and hu
 ```text
 template-en/
 ├── AGENTS.md
+├── SOUL.md
 ├── ARCHITECTURE.md
 ├── API.md
 ├── CHANGELOG.md
@@ -32,6 +33,7 @@ template-en/
 ## Hard Constraints
 - Keep all fixed H1 headings; do not remove or rename.
 - Only append content under existing headings; no full rewrites.
+- `SOUL.md` defines AI values and behavioral boundaries and is a hard-constraint document.
 - `MEMORY.md` must be maintained in reverse chronological order with newest first.
 - For projects without a backend, replace `API.md` content with "Internal Protocol / Component Communication".
 

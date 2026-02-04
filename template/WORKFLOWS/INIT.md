@@ -5,6 +5,7 @@
 ## 阶段 0：无技术栈文件
 1. 建立规则体系：
    - `AGENTS.md`
+   - `SOUL.md`
    - `.rules/` 全部法典
    - `MEMORY.md` / `ARCHITECTURE.md` / `README.md` / `API.md` / `CHANGELOG.md`
 2. 填写 `STACK.md`：明确计划技术栈与部署方式。

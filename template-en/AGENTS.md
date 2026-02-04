@@ -20,6 +20,7 @@ These rules apply to {{PROJECT_NAME}} and all subprojects/subdirectories.
 3. Changing code before updating required docs is a violation.
 
 ## 4. Rule Index
+- AI soul definition → `SOUL.md`
 - Frontend rules → `.rules/AGENTS_FRONTEND.md`
 - Backend rules → `.rules/AGENTS_BACKEND.md`
 - Test rules → `.rules/AGENTS_TEST.md`

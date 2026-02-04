@@ -7,6 +7,7 @@ This repository provides a copy‑ready rulekit to enforce an Impact → Rules �
 
 ## What's Inside
 - Global rules and domain rulebooks (frontend/backend/test/docs)
+- AI soul definition rules (SOUL)
 - Document templates (ARCHITECTURE / API / CHANGELOG / MEMORY / README / STACK)
 - Initialization and post‑task sync workflows
 - Language variants: `template/` (Chinese) and `template-en/` (English)
