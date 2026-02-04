@@ -22,4 +22,4 @@
 - `MEMORY.md` 采用时间倒序，最新记录置顶。
 
 ## License
-如需开源，请在此补充许可证信息。
+MIT License，详见 `LICENSE`。

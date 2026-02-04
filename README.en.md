@@ -22,4 +22,4 @@ This repository provides a copy‑ready rulekit to enforce an Impact → Rules �
 - `MEMORY.md` is maintained in reverse chronological order.
 
 ## License
-If open‑sourcing, add license details here.
+MIT License. See `LICENSE`.
